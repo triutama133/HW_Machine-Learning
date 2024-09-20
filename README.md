@@ -1,6 +1,6 @@
-# Project4_Machine-Learning
+# Machine-Learning
 
-Membuat prediksi tentang pelanggan yang mengambil asuransi berdasarkan data yang diberikan.
+Membuat prediksi tentang pelanggan yang mengambil asuransi berdasarkan data yang diberikan. Model yang digunakan adalah Random-Forest
 
 Library:
 1. pandas
